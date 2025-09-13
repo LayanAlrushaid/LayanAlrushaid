@@ -16,9 +16,12 @@
 ---
 
 ## 📂 Featured Projects
-- 🚀 [ETL vs ELT Pipelines](https://github.com/your-repo) – A comparative study using real estate data.  
-- 📊 [Data Visualization Dashboards](https://github.com/your-repo) – Interactive dashboards for analytics.  
-- 🧹 [Data Cleaning Scripts](https://github.com/your-repo) – Python scripts for preprocessing messy datasets.
+- 🚀 [ETL vs ELT Pipelines](https://github.com/LayanAlrushaid/ETL-and-ELT-Pipelines-Building-project) – Building And comparing ETL and ELT Pipelines.  
+- 📊 [Power BI Product Sales Analysis](https://github.com/LayanAlrushaid/PowerBI-Product-Sales-Analysis-project) – Sales insights via Power BI dashboards.  
+- 📝 [Python TF-IDF Model](https://github.com/LayanAlrushaid/python-TFIDF-model) – Keyword extraction using TF-IDF method.
+- 🏦 [Bank Customer Churn (PySpark ML)](https://github.com/LayanAlrushaid/Pyspark-Bank-Customer-Churn-ML-Analysis) - Predicting bank churn using PySpark.
+- 🫀 [Heart Failure Prediction (ML & Streamlit)](https://github.com/LayanAlrushaid/ML-Based-System-for-Early-Heart-Failure-Prediction) - Early heart failure prediction system.
+- 📈 [R Statistical Data Analysis](https://github.com/LayanAlrushaid/R-statistical-analysis-tire-prices) - Regression analysis of tire warranties.
 - 💼 More projects can be found in my repositories section.
 
 ---
